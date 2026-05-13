@@ -10,12 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukund1771&show_icons=true&hide_border=true" alt="mukund1771's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund1771&hide_border=true" alt="mukund1771's Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mukund1771&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&custom_title=All%20Languages" alt="mukund1771's languages" />
 </div>
 
 <br/>
